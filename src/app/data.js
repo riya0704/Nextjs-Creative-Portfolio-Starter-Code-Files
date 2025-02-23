@@ -108,7 +108,7 @@ export const BtnList = [
   },
   {
     label: "X",
-    link: "https://www.x.com/code_bucks",
+    link: "https://x.com/riyav0711?t=RnJ7P4tBopgzKxkz1xESfQ&s=09",
     icon: "Twitter",
     newTab: true,
   },
